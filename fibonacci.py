@@ -1,3 +1,4 @@
+#it prints all even numbers from the list.
 arr = [10,20,30,40,35,25,10]
 size=len(arr)
 idx=0
@@ -6,3 +7,4 @@ while idx<size:
         print(arr[idx],end=" ")
     idx+=1    
     
+
