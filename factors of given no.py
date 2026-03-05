@@ -1,4 +1,4 @@
-5# factors of given number
+# factors of given number
 n=int(input())
 fact=1
 i=1
@@ -32,3 +32,4 @@ print(oddsum)
 print(ocount)
 
 print()
+
